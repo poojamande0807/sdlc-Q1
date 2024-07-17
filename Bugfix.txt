@@ -1,0 +1,49 @@
+Bug/Defect Report
+Bug ID: BUG-001
+
+Feature: Take the Hair Test
+Description: An invalid name is submitted and did not get any error
+Steps to Reproduce:
+Visit the URL: https://traya.health/
+Click on the "Take your Hair Test" button
+Enter an invalid name (e.g., "123")
+Status: Unresolved
+Priority: High
+Assigned To: QA Team
+Reported Date: 05-Jul-23
+Bug ID: BUG-002
+
+Feature: Take the Hair Test
+Description: An invalid phone number is submitted and did not get any error
+Steps to Reproduce:
+Visit the URL: https://traya.health/
+Click on the "Take your Hair Test" button
+Enter an invalid phone number (e.g., "123456789")
+Status: Unresolved
+Priority: High
+Assigned To: QA Team
+Reported Date: 05-Jul-23
+Bug ID: BUG-003
+
+Feature: Take the Hair Test
+Description: The email is submitted and has not been verified
+Steps to Reproduce:
+Visit the URL: https://traya.health/
+Click on the "Take your Hair Test" button
+Enter an invalid email (e.g., "test@.com")
+Status: Unresolved
+Priority: High
+Assigned To: QA Team
+Reported Date: 05-Jul-23
+Bug ID: BUG-004
+
+Feature: Take the Hair Test
+Description: The email is submitted and has not been verified
+Steps to Reproduce:
+Visit the URL: https://traya.health/
+Click on the "Take your Hair Test" button
+Enter an invalid email (e.g., "test@domain")
+Status: Unresolved
+Priority: High
+Assigned To: QA Team
+Reported Date: 05-Jul-23

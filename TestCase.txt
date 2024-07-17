@@ -1,0 +1,29 @@
+Test Cases
+
+Test Case 1: Verify the Existence of the "Take the Hair Test" Button on the Home Page
+
+Test Case ID: TC_001
+Test Case Type: UI/UX
+Pre-Requisites: Any operating system with a running Internet connection and Chrome Browser
+Test Steps:
+Visit the URL on the browser: https://traya.health/
+Verify if the "Take the Hair Test" button is present on the navbar
+Verify if the "Take the Hair Test" button is present on the hero image of the home page
+Test Data: NULL
+Expected Result: "Take the hair test" button should be visible on both navbar and hero image
+Actual Result: "Take the hair test" button is visible on both navbar and hero image
+Status: Pass
+
+Test Case 2: Validate the "Take your Hair Test" Button on the Navbar
+
+Test Case ID: TC_002
+Test Case Type: Functionality
+Pre-Requisites: Any operating system with a running Internet connection and Chrome Browser
+Test Steps:
+Visit the URL on the browser: https://traya.health/
+Click on the "Take your Hair Test" button on the navbar
+Verify the URL https://form.traya.health/ after clicking on the button
+Test Data: NULL
+Expected Result: The user should be redirected to https://form.traya.health/ after clicking on the button
+Actual Result: The user is redirected to https://form.traya.health/ after clicking on the button
+Status: Pass

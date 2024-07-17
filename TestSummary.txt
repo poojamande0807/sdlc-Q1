@@ -1,0 +1,28 @@
+Test Summary Report
+Product Name: Reliance Digital
+
+Product Description: Testing the functionalities of the Reliance Digital website for reliability and user experience.
+
+Project Description:
+
+Mission: Conduct testing to verify the quality of the website.
+Output:
+Test Summary Report & Evaluation
+Bug/Defect Report
+Project Type: Testing/Verification
+
+Author: Sukhmani Kaur
+
+Total Test Cases:
+
+Functionality: 23
+UI/UX: 7
+Performance: 3
+Test Case Status:
+
+Passed: 29
+Failed: 4
+Project Duration:
+
+Start Date: 05-Jul-23
+End Date: 07-Jul-23
